@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: blockchain-note
+  annotations:
+    github.com/project-slug: zhanibek05/blockchain-note
+spec:
+  type: other
+  lifecycle: unknown
+  owner: zhanibek05
