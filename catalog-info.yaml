@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: zhanibek05/blockchain-note
 spec:
-  type: other
+  type: service
   lifecycle: unknown
   owner: zhanibek05
